@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.navbar {
+    background-color: #ecf0f1;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+/* Centrer le titre "Our Menu" */
+header h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+}
+
+/* Espacement des sections du menu */
+.container .row .col-md-4 {
+    margin-bottom: 30px;
+}
+
